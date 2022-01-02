@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 
 /***** EXAMPLE OF A HIGHER-ORDER FUNCTION *****/
 /*****  React uses higher-order component (HOC) technique -> a function that takes a component and returns a new component *****/
-export const assignment = () => {
+export const Assignment = () => {
   const [id, setID] = useState();
   const [meteo, setMeteo] = useState({});
 
@@ -83,4 +83,4 @@ export const assignment = () => {
   );
 };
 
-export default assignment;
+export default Assignment;
