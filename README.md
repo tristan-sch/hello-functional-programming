@@ -30,4 +30,3 @@ I decided to keep it simple and reuse some of my work for the last project so it
 - [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY)
 - [React Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [An introduction to Functional Programming with JavaScript](https://flaviocopes.com/javascript-functional-programming/)
-- [How to build and deploy a React app to Github pages](https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14)
