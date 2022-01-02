@@ -12,11 +12,6 @@ export const assignment = () => {
   const URL = `https://api.openweathermap.org/data/2.5/onecall`;
   const API_KEY = `c44f77911579d2cbc82efc379374400c`;
 
-  // To set the station already on a selected city
-  useEffect(() => {
-    getStation("Reykjavik");
-  }, []);
-
   /***** EXAMPLE OF A PURE FUNCTION *****/
   /*****  The argument "id" is passed to the function to get coords of the selected city and will return the weather of this city *****/
   const getStation = async (id) => {
