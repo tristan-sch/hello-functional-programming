@@ -3,7 +3,7 @@
 This project my assignment for Module 4:
 
 - Go to the [guide](https://io.tskoli.dev/guides/5f133439b279dc27c467cad7)
-- Go to the [live demo](xxx)
+- Go to the [live demo](https://hello-functional-programming.vercel.app/)
 
 ## The assignment
 
