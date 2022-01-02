@@ -1,35 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# hello-functionnal-programming
 
-## Getting Started
+This project my assignment for Module 4:
 
-First, run the development server:
+- Go to the [guide](https://io.tskoli.dev/guides/5f133439b279dc27c467cad7)
+- Go to the [live demo](xxx)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## The assignment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I decided to keep it simple and reuse some of my work for the last project so it’s a simple weather app. Here’s what I learned:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### `Pure functions`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Avoid side effects -> anything that a function might do that isn’t computing its output from the inputs you’ve given and returning that output.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### `Higher-order functions`
 
-## Learn More
+- Functions that can take as inputs other functions or a function that can return a function as its output -> we treat functions kind of as objects themselves
 
-To learn more about Next.js, take a look at the following resources:
+### `Don’t iterate`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Use map, reduce, filter and not for, while
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Notes
 
-## Deploy on Vercel
+- I mostly used the presentation from Anjana Vakil for this assignment, I think it has it all and everything is really well explained.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Resources
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY)
+- [React Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+- [An introduction to Functional Programming with JavaScript](https://flaviocopes.com/javascript-functional-programming/)
+- [How to build and deploy a React app to Github pages](https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14)
+
+# hello-functional-programming
+
+# hello-functional-programming
+
 # hello-functional-programming
